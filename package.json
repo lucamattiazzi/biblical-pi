@@ -1,0 +1,13 @@
+{
+  "name": "biblical-pi",
+  "version": "0.1.0",
+  "description": "Bring the biblical precision to your Math",
+  "main": "index.js",
+  "keywords": ["PI", "Useless"],
+  "author": {
+    "name": "Luca Mattiazzi",
+    "email": "l.d.mattiazzi@gmail.com",
+    "url": "https://grokked.it"
+  },
+  "license": "ISC"
+}
